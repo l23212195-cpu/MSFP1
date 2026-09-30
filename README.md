@@ -2,7 +2,7 @@
 
 # Práctica 1: Diseño de controladores
 
-## Información de la estudiante
+## Información de el estudiante
 
 Garcia Grijalva Armando [23212195]; L23212195@tijuana.tecnm.mx
 
