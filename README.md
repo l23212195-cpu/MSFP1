@@ -4,7 +4,7 @@
 
 ## Información de la estudiante
 
-Nombres y Apellidos \[No. Control]; correo institucional
+Garcia Grijalva Armando [23212195]; L23212195@tijuana.tecnm.mx
 
 Modelado de Sistemas Fisiológicos
 
